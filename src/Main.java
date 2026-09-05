@@ -11,6 +11,6 @@ int b=0;
       if(b==0){
           throw new Notfoundecxeptons("b should not be 0");
       }
-
+        System.out.println("hello vighnseshshs");
     }
 }
